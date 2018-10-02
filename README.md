@@ -1,1 +1,1 @@
-# yang-devkit-examples
+This repo coonstains sandbox examples for applications using YDK.  YDK is an open source development kit which provides model-driven APIs generated from a variety of YANG models.  These examples are using YDK-Py with IOS-XE examples.  More information on YDK can be found at: https://github.com/CiscoDevNet/ydk-py-samples/blob/master/README.md
