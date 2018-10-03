@@ -1,0 +1,19 @@
+        <Loopback>
+          <name>99</name>
+          <description> YDK Added this IPv6 interface :-)</description>
+          <vrf>
+            <forwarding>test</forwarding>
+          </vrf>
+          <ip>
+            <no-address>
+              <address>false</address>
+            </no-address>
+          </ip>
+          <ipv6>
+            <address>
+              <prefix-list>
+                <prefix>2001:db8::ff:1/128</prefix>
+              </prefix-list>
+            </address>
+          </ipv6>
+        </Loopback>

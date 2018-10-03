@@ -1,0 +1,7 @@
+!
+interface Loopback66
+ description IPv6 VRF Interface
+ vrf forwarding VRF2
+ no ip address
+ ipv6 address 2001:DB8::FF:1/128
+!
