@@ -1,0 +1,15 @@
+<Loopback>
+  <name>99</name>
+  <description> YDK Added this VRF interface :-)</description>
+  <vrf>
+    <forwarding>vrf_ydk</forwarding>
+  </vrf>
+  <ip>
+    <address>
+      <primary>
+        <address>10.99.99.99</address>
+        <mask>255.255.255.255</mask>
+      </primary>
+    </address>
+  </ip>
+</Loopback>
